@@ -1,0 +1,1 @@
+Extraxt and run redis-server
